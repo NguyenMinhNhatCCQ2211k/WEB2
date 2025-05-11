@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.card-img-top {
+  float: left;
+}
+
+.test {
+  color: red;
+}
+
+.card-text {
+  padding-left: 100px;
+}
+
+.a, .b {
+  float: left;
+}
+
+.b {
+  padding-left: 30px;
+}
+
+#tam {
+  color: red;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: green;
+  margin-bottom: 30px;
+}

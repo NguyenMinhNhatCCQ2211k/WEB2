@@ -1,0 +1,32 @@
+/* IndexAdmin.module.css */
+
+.header {
+    padding: 5rem;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #343a40; /* Bootstrap dark color */
+}
+
+.navLink {
+    color: white;
+}
+
+.navLinkActive {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.container {
+    margin-top: 5rem;
+}
+
+.footer {
+    margin-top: 5rem;
+    padding: 4rem;
+    background-color: #343a40; /* Bootstrap dark color */
+    color: white;
+    text-align: center;
+}

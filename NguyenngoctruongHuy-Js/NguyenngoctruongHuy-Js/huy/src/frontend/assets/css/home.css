@@ -1,0 +1,24 @@
+.container {
+    padding: 20px;
+  }
+  
+  .product-section {
+    margin-bottom: 40px;
+  }
+  
+  .product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the gap as needed */
+  }
+  
+  .product-thumb {
+    flex: 1 1 330px; /* Adjust the basis and growth/shrink as needed */
+  }
+  
+  .product-thumb img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
